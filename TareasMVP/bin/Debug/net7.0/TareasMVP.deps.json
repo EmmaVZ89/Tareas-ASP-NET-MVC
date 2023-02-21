@@ -15,6 +15,14 @@
         },
         "runtime": {
           "TareasMVP.dll": {}
+        },
+        "resources": {
+          "en/TareasMVP.resources.dll": {
+            "locale": "en"
+          },
+          "es/TareasMVP.resources.dll": {
+            "locale": "es"
+          }
         }
       },
       "Azure.Core/1.24.0": {
