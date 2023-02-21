@@ -73,3 +73,10 @@ C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\refint\
 C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\TareasMVP.pdb
 C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\TareasMVP.genruntimeconfig.cache
 C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\ref\TareasMVP.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
