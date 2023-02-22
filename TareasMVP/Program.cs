@@ -54,6 +54,7 @@ builder.Services.AddLocalization(opciones =>
 });
 
 builder.Services.AddTransient<IServicioUsuarios, ServicioUsuarios>();
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

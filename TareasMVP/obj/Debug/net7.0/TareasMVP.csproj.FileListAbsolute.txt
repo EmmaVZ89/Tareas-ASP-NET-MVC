@@ -186,3 +186,5 @@ C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\r
 C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\TareasMVP.pdb
 C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\TareasMVP.genruntimeconfig.cache
 C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\obj\Debug\net7.0\ref\TareasMVP.dll
+C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
