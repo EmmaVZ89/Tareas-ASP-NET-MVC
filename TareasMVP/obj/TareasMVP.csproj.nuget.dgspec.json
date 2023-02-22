@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Note\\Desktop\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj": {}
+    "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Note\\Desktop\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj": {
+    "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Note\\Desktop\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj",
+        "projectUniqueName": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj",
         "projectName": "TareasMVP",
-        "projectPath": "C:\\Users\\Note\\Desktop\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj",
+        "projectPath": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\TareasMVP.csproj",
         "packagesPath": "C:\\Users\\Note\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Note\\Desktop\\Proyectos ASP\\TareasMVP\\TareasMVP\\obj\\",
+        "outputPath": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.MicrosoftAccount": {
               "target": "Package",
               "version": "[7.0.3, )"

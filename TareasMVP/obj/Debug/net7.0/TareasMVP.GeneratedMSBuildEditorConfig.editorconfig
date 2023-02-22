@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TareasMVP
 build_property.RootNamespace = TareasMVP
-build_property.ProjectDir = C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP\
+build_property.ProjectDir = C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Note\Desktop\Proyectos ASP\TareasMVP\TareasMVP
+build_property.MSBuildProjectDirectory = C:\Users\Note\Desktop\Learn\Proyectos ASP\TareasMVP\TareasMVP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Home/Index.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Home/Privacy.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/Error.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_CambiarIdioma.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_CambiarIdioma.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYW1iaWFySWRpb21hLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_LinksLogin.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_LinksLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rc0xvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_TraduccionesJS.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_TraduccionesJS.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UcmFkdWNjaW9uZXNKUy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/Listado.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/Listado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTGlzdGFkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/Login.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/Registro.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/Registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUmVnaXN0cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/_Layout.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Usuarios/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/_ViewImports.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/_ViewStart.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Note/Desktop/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_Layout.cshtml]
+[C:/Users/Note/Desktop/Learn/Proyectos ASP/TareasMVP/TareasMVP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xbij3fzowy
