@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1Hv3z62VOnu8jYYBWYWQYxCF+sL9wfUX3LiPnbagtc4=",
+  "Hash": "EZkFoFCD22oAAE80gLyTDV2KBctSP6zEd+TmwOZ1Aco=",
   "Source": "TareasMVP",
   "BasePath": "_content/TareasMVP",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TareasMVP.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\archivosAdjuntos\\1b2260ae-88b4-490b-9a7d-baedcea457db.jpg",
+      "SourceId": "TareasMVP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\",
+      "BasePath": "_content/TareasMVP",
+      "RelativePath": "archivosAdjuntos/1b2260ae-88b4-490b-9a7d-baedcea457db.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\archivosAdjuntos\\1b2260ae-88b4-490b-9a7d-baedcea457db.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\css\\site.css",
       "SourceId": "TareasMVP",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\js\\archivos-adjuntos.js",
+      "SourceId": "TareasMVP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\",
+      "BasePath": "_content/TareasMVP",
+      "RelativePath": "js/archivos-adjuntos.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\archivos-adjuntos.js"
     },
     {
       "Identity": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\js\\pasos.js",

@@ -27,7 +27,7 @@ function confirmarAccion({ callBackAceptar, callBackCancelar, titulo }) {
         icon: "warning",
         showCancelButton: true,
         confirmButtonColor: "#3085d6",
-        calcelButtonColor: "#d33",
+        cancelButtonColor: "#d33",
         confirmButtonText: "Si",
         focusConfirm: true
     }).then((resultado) => {
@@ -38,4 +38,15 @@ function confirmarAccion({ callBackAceptar, callBackCancelar, titulo }) {
             callBackCancelar();
         }
     })
+}
+
+function descargarArchivo(url, nombre) {
+    const link = document.createElement('a');
+    link.download = nombre;
+    link.target = "_blank";
+    link.href = url;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    delete link;
 }

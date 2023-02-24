@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\TareasMVP.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\archivosAdjuntos\\1b2260ae-88b4-490b-9a7d-baedcea457db.jpg",
+      "PackagePath": "staticwebassets\\archivosAdjuntos\\1b2260ae-88b4-490b-9a7d-baedcea457db.jpg"
+    },
+    {
       "Id": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\js\\archivos-adjuntos.js",
+      "PackagePath": "staticwebassets\\js\\archivos-adjuntos.js"
     },
     {
       "Id": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\js\\pasos.js",
