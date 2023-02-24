@@ -8,6 +8,7 @@ using System.Globalization;
 using TareasMVP;
 using Microsoft.AspNetCore.Mvc.Razor;
 using TareasMVP.Servicios;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +25,9 @@ builder.Services.AddControllersWithViews(opciones =>
 {
     opciones.DataAnnotationLocalizerProvider = (_, factoria) =>
         factoria.Create(typeof(RecursoCompartido));
+}).AddJsonOptions(opciones =>
+{
+    opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
 });
 
 builder.Services.AddDbContext<ApplicationDbContext>(opciones =>

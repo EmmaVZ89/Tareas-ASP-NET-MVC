@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d9bf0bMj4ZQMvTSlHatFPAzOUdMx2B10V316/CNioZI=",
+  "Hash": "1Hv3z62VOnu8jYYBWYWQYxCF+sL9wfUX3LiPnbagtc4=",
   "Source": "TareasMVP",
   "BasePath": "_content/TareasMVP",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\js\\pasos.js",
+      "SourceId": "TareasMVP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\",
+      "BasePath": "_content/TareasMVP",
+      "RelativePath": "js/pasos.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pasos.js"
     },
     {
       "Identity": "C:\\Users\\Note\\Desktop\\Learn\\Proyectos ASP\\TareasMVP\\TareasMVP\\wwwroot\\js\\site.js",
